@@ -1,0 +1,3 @@
+https://github.com/ghostandthemachine/sinatra-haml-bootstrap-fluid
+http://fontawesome.github.io/Font-Awesome/get-started/
+http://code.tutsplus.com/tutorials/an-introduction-to-haml-and-sinatra--net-14858
